@@ -1,0 +1,8 @@
+First Name: Bharath Ram
+Last Name: Ganesh
+Age: 20
+Gender : Male
+City: Chennai
+Father's Name: Ganesh
+Mother's Name: Bhuvaneswari
+DOB: 28-023-2000
